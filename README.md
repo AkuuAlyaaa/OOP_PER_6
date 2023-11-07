@@ -6,7 +6,9 @@ KELAS : TI.22.B1
 
 # LATIHAN CLASS MAHASISWA DENGAN SETTER DAN GETTER
 
-Download terlebih dahulu APK Visual Studio, kemudian buka Apk nya selanjutnya buat new project terlebih dahulu lalu pilih Console Aplication C# atur nama project yang kalian inginkan setelah itu simpan, kemudian isi codingan seperti di bawah ini
+Tutorial Membuatnya sebagai berikut :
+
+Pertama download terlebih dahulu APK Visual Studio di pc kalian masing-masing, kemudian install setelah di install buka Apk nya, selanjutnya buat new project terlebih dahulu lalu pilih Console Aplication C# atur nama project yang kalian inginkan setelah itu simpan, kemudian isi codingan seperti di bawah ini
 
 - Code public class pegawai :
   
